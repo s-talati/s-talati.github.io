@@ -1,1 +1,0 @@
-# s-talati.github.io
