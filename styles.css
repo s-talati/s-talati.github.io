@@ -615,7 +615,7 @@ h5 {
 
 .wireframe {
     max-width: 16%;
-    max-height: 16%;
+   /* max-height: 16%; */
     margin-right: 10px;
     border-style: solid;
     border-color: black;
@@ -624,7 +624,7 @@ h5 {
 
 .mobile {
     max-width: 16%;
-    max-height: 16%;
+   /* max-height: 16%; */
     margin-right: 10px;
     border: 0.5px solid black;
     border-radius: 15px;
@@ -654,12 +654,12 @@ h5 {
 
 .mockups {
     max-width: 19%;
-    max-height: 19%;
+  /*  max-height: 19%; */
     margin-right: 10px;
 }
 
 .via-prot {
     max-width: 16%;
-    max-height: 16%;
+   /* max-height: 16%; */
     margin-right: 7px;
 }
